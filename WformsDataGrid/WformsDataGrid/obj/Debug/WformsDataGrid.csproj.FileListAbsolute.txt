@@ -1,0 +1,43 @@
+C:\Users\APRENDIZ\Source\Repos\WformsDataGrid\WformsDataGrid\bin\Debug\WformsDataGrid.exe.config
+C:\Users\APRENDIZ\Source\Repos\WformsDataGrid\WformsDataGrid\bin\Debug\WformsDataGrid.exe
+C:\Users\APRENDIZ\Source\Repos\WformsDataGrid\WformsDataGrid\bin\Debug\WformsDataGrid.pdb
+C:\Users\APRENDIZ\Source\Repos\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.AssemblyReference.cache
+C:\Users\APRENDIZ\Source\Repos\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\APRENDIZ\Source\Repos\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.Form1.resources
+C:\Users\APRENDIZ\Source\Repos\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.Properties.Resources.resources
+C:\Users\APRENDIZ\Source\Repos\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.GenerateResource.cache
+C:\Users\APRENDIZ\Source\Repos\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\APRENDIZ\Source\Repos\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.exe
+C:\Users\APRENDIZ\Source\Repos\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.pdb
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\WformsDataGrid\WformsDataGrid\bin\Debug\WformsDataGrid.exe.config
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\WformsDataGrid\WformsDataGrid\bin\Debug\WformsDataGrid.exe
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\WformsDataGrid\WformsDataGrid\bin\Debug\WformsDataGrid.pdb
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.Form1.resources
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.Properties.Resources.resources
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.exe
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.pdb
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\bin\Debug\WformsDataGrid.exe.config
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\bin\Debug\WformsDataGrid.exe
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\bin\Debug\WformsDataGrid.pdb
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.Form1.resources
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.Properties.Resources.resources
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.exe
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\bin\Debug\WformsDataGrid.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\bin\Debug\WformsDataGrid.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\bin\Debug\WformsDataGrid.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.Form1.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.Properties.Resources.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\WformsDataGrid\WformsDataGrid\obj\Debug\WformsDataGrid.pdb
