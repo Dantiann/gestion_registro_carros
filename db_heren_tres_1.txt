@@ -1,0 +1,113 @@
+CREATE DATABASE ejercicio_1
+
+
+
+CREATE TABLE Ciudades
+(
+    id_Ciudad INT AUTO_INCREMENT PRIMARY KEY,
+    nombre_Ciudad VARCHAR(50) NOT NULL,
+    descripcion_Ciudad VARCHAR(100) NOT NULL
+);
+
+
+CREATE TABLE tipoCliente
+(
+    id_TipoCliente INT AUTO_INCREMENT,
+    tipoCliente ENUM('Asociado', 'Cliente', 'Proveedor', 'Socio'),
+    descripcion_TipoCliente VARCHAR(100) NOT NULL,
+    PRIMARY kEY (id_TipoCliente)
+);
+
+
+CREATE TABLE Clientes
+	(id_Cliente int AUTO_INCREMENT,
+  	 nombre VARCHAR (50),
+     apellidos VARCHAR (50),
+     direccion VARCHAR (50),
+	 telefono VARCHAR (11),	
+     fecha DATE, 
+	 id_Ciudad_Copia int, 	
+     id_TipoCliente_Copia int, 
+     PRIMARY KEY (id_Cliente),
+     FOREIGN KEY (id_Ciudad_Copia) REFERENCES ciudades (id_Ciudad),
+     FOREIGN KEY (id_TipoCliente_Copia) REFERENCES tipoCliente (id_TipoCliente)
+   );
+    
+    
+
+
+
+
+INSERT INTO Ciudades (nombre_Ciudad, descripcion_Ciudad) 
+VALUES
+('Bogotá', 'Capital de Colombia'),
+('Medellín', 'Ciudad de la Eterna Primavera'),
+('Cali', 'Sucursal del Cielo'),
+('Barranquilla', 'Puerta de Oro de Colombia'),
+('Cartagena', 'Ciudad Heroica'),
+('Manizales', 'Ciudad de las Puertas Abiertas'),
+('Pereira', 'Querendona, Trasnochadora y Morena');
+
+
+
+
+INSERT INTO tipoCliente (tipoCliente, descripcion_TipoCliente) VALUES
+('Asociado', 'Cliente asociado con la empresa'),
+('Cliente', 'Cliente regular de la empresa'),
+('Proveedor', 'Proveedor de bienes o servicios para la empresa'),
+('Socio', 'Socio de la empresa');
+
+
+INSERT INTO Clientes (nombre, apellidos, direccion, telefono, fecha, id_Ciudad_Copia, id_TipoCliente_Copia) VALUES
+('Juan', 'Martinez', 'Calle A #123', '1234567890', '1990-01-01', 1, 1),
+('María', 'Gómez', 'Avenida B #456', '2345678901', '1991-02-02', 2, 2),
+('Pedro', 'López', 'Carrera C #789', '3456789012', '1992-03-03', 3, 3),
+('Ana', 'Rodríguez', 'Calle D #321', '4567890123', '1993-04-04', 1, 2),
+('Luis', 'Hernández', 'Avenida E #654', '5678901234', '1994-05-05', 2, 3),
+('Laura', 'Díaz', 'Carrera F #987', '6789012345', '1995-06-06', 3, 4),
+('Carlos', 'García', 'Calle G #135', '7890123456', '1996-07-07', 4, 1),
+('Sofía', 'Pérez', 'Avenida H #642', '8901234567', '1997-08-08', 5, 2),
+('Javier', 'Fernández', 'Carrera I #753', '9012345678', '1998-09-09', 6, 3),
+('Elena', 'González', 'Calle J #246', '0123456789', '1999-10-10', 7, 4),
+('Miguel', 'Sanchez', 'Avenida K #987', '1234567890', '2000-11-11', 1, 1),
+('Carmen', 'Martín', 'Carrera L #321', '2345678901', '2001-12-12', 2, 2),
+('Diego', 'Ruiz', 'Calle M #753', '3456789012', '2002-01-13', 3, 3),
+('Andrea', 'Jiménez', 'Avenida N #159', '4567890123', '2003-02-14', 4, 4),
+('Pablo', 'Vargas', 'Carrera Ñ #357', '5678901234', '2004-03-15', 5, 1),
+('Lucía', 'López', 'Calle O #852', '6789012345', '2005-04-16', 6, 2),
+('Manuel', 'Gómez', 'Avenida P #246', '7890123456', '2006-05-17', 7, 3),
+('Natalia', 'Hernández', 'Carrera Q #951', '8901234567', '2007-06-18', 1, 4),
+('Alejandro', 'Díaz', 'Calle R #753', '9012345678', '2008-07-19', 2, 1),
+('Isabel', 'Fernández', 'Avenida S #159', '0123456789', '2009-08-20', 3, 2),
+('Raúl', 'García', 'Carrera T #357', '1234567890', '2010-09-21', 4, 3),
+('Paula', 'Pérez', 'Calle U #852', '2345678901', '2011-10-22', 5, 4),
+('José', 'Martínez', 'Avenida V #246', '3456789012', '2012-11-23', 6, 1),
+('Eva', 'Sánchez', 'Carrera W #951', '4567890123', '2013-12-24', 7, 2),
+('Roberto', 'Jiménez', 'Calle X #753', '5678901234', '2014-01-25', 1, 3),
+('Gabriela', 'Vargas', 'Avenida Y #159', '6789012345', '2015-02-26', 2, 4),
+('Sara', 'López', 'Carrera Z #357', '7890123456', '2016-03-27', 3, 1),
+('Daniel', 'Gómez', 'Calle AA #852', '8901234567', '2017-04-28', 4, 2),
+('Valeria', 'Hernández', 'Avenida BB #246', '9012345678', '2018-05-29', 5, 3),
+('Fernando', 'Díaz', 'Carrera CC #951', '0123456789', '2019-06-30', 6, 4),
+('Verónica', 'Martínez', 'Calle DD #753', '1234567890', '2020-07-01', 7, 1),
+('Ricardo', 'Sánchez', 'Avenida EE #159', '2345678901', '2021-08-02', 1, 2),
+('Patricia', 'Fernández', 'Carrera FF #357', '3456789012', '2022-09-03', 2, 3),
+('Jessica', 'Pérez', 'Calle GG #852', '4567890123', '2023-10-04', 3, 4),
+('Fernanda', 'García', 'Avenida HH #246', '5678901234', '2024-11-05', 4, 1),
+('Gustavo', 'Hernández', 'Carrera II #951', '6789012345', '2025-12-06', 5, 2),
+('Rosa', 'Díaz', 'Calle JJ #753', '7890123456', '2026-01-07', 6, 3),
+('Mario', 'López', 'Avenida KK #159', '8901234567', '2027-02-08', 7, 4),
+('Silvia', 'Martín', 'Carrera LL #357', '9012345678', '2028-03-09', 1, 1),
+('Martín', 'Gómez', 'Calle MM #852', '0123456789', '2029-04-10', 2, 2),
+('Cristina', 'Hernández', 'Avenida NN #246', '1234567890', '2030-05-11', 3, 3),
+('Jorge', 'Sánchez', 'Carrera OO #951', '2345678901', '2031-06-12', 4, 4),
+('Ana', 'Pérez', 'Calle PP #753', '3456789012', '2032-07-13', 5, 1),
+('Antonio', 'Martínez', 'Avenida QQ #159', '4567890123', '2033-08-14', 6, 2),
+('Elena', 'García', 'Carrera RR #357', '5678901234', '2034-09-15', 7, 3),
+('Hugo', 'Hernández', 'Calle SS #852', '6789012345', '2035-10-16', 1, 4),
+('Laura', 'Díaz', 'Avenida TT #246', '7890123456', '2036-11-17', 2, 1),
+('Diego', 'Sánchez', 'Carrera UU #951', '8901234567', '2037-12-18', 3, 2);
+
+
+
+
